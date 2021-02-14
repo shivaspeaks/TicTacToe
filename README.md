@@ -7,7 +7,7 @@ Java console application.
 You can run it on any java editor, easy to play.
 
 There are two techniques implemented: 
-  - A basic game includes a 2 player Tic Tac Tow game.
+  - A basic game includes a 2 player Tic-Tac-Toe game.
   - Improved basic with better use of OOPs concepts.
   - AI integrated game in which one can play against AI and can just dream to win.
 
